@@ -23,6 +23,8 @@ Users like Valentina struggle with scheduling due to timezone conflicts and lack
 
 ![image](https://github.com/user-attachments/assets/053040dc-ff0b-4a8e-aafd-ae746b0b3008)
 
+![image](https://github.com/user-attachments/assets/b7117b71-c2d0-4de1-bcb6-1871b4bc5eb0)
+
 ![image](https://github.com/user-attachments/assets/9e333a14-503c-459a-8c43-be8151394be3)
 
 
