@@ -18,3 +18,11 @@ Users like Valentina struggle with scheduling due to timezone conflicts and lack
 
 **Tools**: Figma, Wireframes, Mockups, UX Research  
 **Keywords**: UI, UX, Calendar, Productivity, Timezone
+
+![image](https://github.com/user-attachments/assets/ef620f83-27d8-4db8-b7fa-f84be8dffff7)
+
+![image](https://github.com/user-attachments/assets/053040dc-ff0b-4a8e-aafd-ae746b0b3008)
+
+![image](https://github.com/user-attachments/assets/9e333a14-503c-459a-8c43-be8151394be3)
+
+
